@@ -1,0 +1,28 @@
+<html>
+<body>
+<Center><table border="1">
+<tr>
+<td colspan="6">
+<h1><Center><font color="Red">Ayyesah G. Abduljalil</Center></font>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<Center>
+<h4><p>11-St.Blaise</p>
+<p><marquee direction="right">Do not do unto others what you don't want others to do unto you</p>
+</td>
+</Center>
+<td colspan="3"><img src="file:///E:/A/LOGO.jpg.jpg" width="450"></Center></td>
+</tr>
+<tr>
+<td colspan="6">
+<Center>
+<h4><a href="http://www.rvmonline.net/ndrvmcc/">NDRVMCC</a>
+</Center>
+</td>
+</tr>
+</center>
+</body>
+</html>
+
